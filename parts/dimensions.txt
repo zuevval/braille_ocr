@@ -6,11 +6,15 @@
 "cell_base_rounding"= 2
 "cell_surface_rounding"= 2
 "cell_surface_height"= "cell_surface_rounding" + 1
-"char_width"= 15
+"char_width"= 12
 "char_thickness"= 2.5
-"char_height"= 22
+"char_height"= 17
 "char_champfer_width"= 1
 "char_depth"= 1.5
+"cell_height"= 5
+"char_frame_width"= 17
+"char_frame_height"= 22
+"char_frame_fillet"=2
 "D1@holes_sketch" = "holes_horisontal_dist" / 2
 "D2@holes_sketch" = "holes_vertical_dist"
 "D3@holes_sketch" = "hole_diam"
@@ -18,4 +22,3 @@
 "D5@holes_sketch" = "holes_vertical_dist"
 "D6@holes_sketch" = "hole_diam"
 "D7@holes_sketch" = "hole_diam"
-"cell_height"= 5

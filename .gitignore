@@ -1,3 +1,10 @@
 # stereolitography
 *.stl
 
+# picrures
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG

@@ -10,7 +10,7 @@
 "border_height"= 0.5
 "base_height"= 3
 "base_rounding"= 2
-"magnet_cut_height"= 2.2
+"magnet_cut_height"= 2.6
 "magnet_cut_depth"= 2
 "magnet_cut_width"= 6.2
 "magnet_cut_offset"= 4

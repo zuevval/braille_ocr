@@ -1,5 +1,6 @@
 ﻿"hole_diam"= 4.7мм
 "cell_pace"= 22.5мм'distance between neighbouring cells
+"cell_width"= "cell_pace"
 "holes_horisontal_dist"= 7.5
 "holes_vertical_dist"= "holes_horisontal_dist"
 "cell_length"= "holes_vertical_dist" * 4
@@ -19,3 +20,8 @@
 "D6@holes_sketch" = "hole_diam"
 "D7@holes_sketch" = "hole_diam"
 "cell_height"= 5
+"border_width"= 1
+"border_height"= 0.5
+"magnet_cut_height"= 2.6
+"magnet_cut_depth"= 2
+"magnet_cut_width"= 6.2

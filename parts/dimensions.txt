@@ -23,5 +23,5 @@
 "border_width"= 1
 "border_height"= 0.5
 "magnet_cut_height"= 2.6
-"magnet_cut_depth"= 2
+"magnet_cut_depth"= 2.2
 "magnet_cut_width"= 6.2

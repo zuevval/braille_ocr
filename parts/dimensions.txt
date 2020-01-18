@@ -25,3 +25,4 @@
 "magnet_cut_height"= 2.6
 "magnet_cut_depth"= 2.2
 "magnet_cut_width"= 6.2
+"char_tilt"= 20'degrees

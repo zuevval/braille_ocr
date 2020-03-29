@@ -1,4 +1,5 @@
 # Braille Trainer : braille tiles
+# This repository (and all other Braille-related repositories) moved [here](https://github.com/braille-systems/)
 
 This repository is in the chain of Braille Trainer project
 

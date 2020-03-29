@@ -1,5 +1,5 @@
-# Braille Trainer : braille tiles
-# This repository (and all other Braille-related repositories) moved [here](https://github.com/braille-systems/)
+# This repository is ARCHIVED and moved [HERE](https://github.com/braille-systems/braille-tiles)
+## Braille Trainer : braille tiles
 
 This repository is in the chain of Braille Trainer project
 
